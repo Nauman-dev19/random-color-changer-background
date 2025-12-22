@@ -1,0 +1,19 @@
+# Counter Step App
+
+A JavaScript counter application with step increment and reset functionality.
+
+## Features
+
+- Increase and decrease by step value of 5
+- Reset counter
+- Prevents negative values
+
+## Technologies
+
+- HTML
+- CSS / SCSS
+- JavaScript
+
+## How to Run
+
+Open `index.html` in a browser.
