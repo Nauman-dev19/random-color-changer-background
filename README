@@ -1,19 +1,20 @@
-# Counter Step App
+# Random Color Changer
 
-A JavaScript counter application with step increment and reset functionality.
+This project is a simple JavaScript application that changes the background color and the text color of the body to a random color when a button is clicked. It is built using HTML, SCSS, and vanilla JavaScript.
 
 ## Features
 
-- Increase and decrease by step value of 5
-- Reset counter
-- Prevents negative values
+- Generates a random color on each button click
+- Dynamically updates the background color and text color of the body using JavaScript
+- Clean and simple user interface
+- Uses proper DOM manipulation and event handling
 
-## Technologies
+## Technologies Used
 
 - HTML
-- CSS / SCSS
+- SCSS
 - JavaScript
 
-## How to Run
+## How It Works
 
-Open `index.html` in a browser.
+- A button click triggers a JavaScript
